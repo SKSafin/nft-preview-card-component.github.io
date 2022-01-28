@@ -12,7 +12,7 @@ body{
     padding: 25px;
     background-color: hsl(215, 54%, 11%);
 }
-body, .image-wrapm, .image::after{
+body, .image-wrap, .image::after{
     display: flex;
     justify-content: center;
     align-items: center;
